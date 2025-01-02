@@ -1,0 +1,16 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Virtual environment folders
+.env
+scraper_env
+# Chrome WebDriver binary
+chromedriver.exe
+# pip environment files
+pip-log.txt
+pip-delete-this-directory.txt
