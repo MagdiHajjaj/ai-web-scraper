@@ -1,5 +1,5 @@
 # AI Web Scraper
-
+ 
 This Python-based web scraper uses **Selenium** and **BeautifulSoup** to scrape data from websites. It supports **BrightData Super Proxy** for accessing sites securely through a proxy network.
 
 ---
